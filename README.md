@@ -1,4 +1,11 @@
-## Hi there 👋
+<div>
+
+<h1> Shantanu Badgujar - CS Grad 👋 </h1>
+</div>
+I'm self-taught and passionate about Computers since childhood from India 🇮🇳
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**
+
+- 💬 Ask me about anything [here](https://github.com/Shantanuz06/Shantanuz06/issues)
 
 <!--
 **Shantanuz06/Shantanuz06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![](flames.gif) ![](flames.gif)
