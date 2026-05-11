@@ -2,11 +2,7 @@
    <h1>Hey there, I'm <a href="https://shantanuz06.vercel.app/">Shantanu</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-<h5 align="center">
-   <i>“As I look back, I am forever grateful for the journey I traveled and to all the people who have helped me to grow on the way. Never could I have imagined where the invisible hand of destiny was leading me. Through it all, I have come to realize that only if we cling to our sacred ideals, not being diverted by either successes or failures, we may find that amazing powers, beyond our own, are there to test us, protect us, and empower us.I pray that this simple story of mine may inspire all my readers with hope. Our true home awaits us at the end of life’s perilous journey. It is a place of lasting peace, beckoning us to persevere until we, too, reunite with our lost love.”
 
-– Radhanath Swami in The Journey Home book.</i>
-  </h5>
 <br>
 
 **I'm self-taught and love to code** &nbsp;&nbsp; ![](cat-typing.gif) &nbsp;&nbsp;...😉🙃🫡
